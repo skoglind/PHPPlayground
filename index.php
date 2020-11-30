@@ -10,7 +10,7 @@
 		<h1> Playground </h1>
 		<p>A small playground for all my mini projects.</p>
 		<ul>
-			<li> <a href="test/">Testproject (PHP)</a> </li>
+			<li> <a href="version/">PHP Server Version (PHP)</a> </li>
 		</ul>
 	</body>
 </html>

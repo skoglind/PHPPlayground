@@ -1,4 +1,4 @@
 <?php $projtitle = 'PHP Server Version'; ?>
 <?php require_once( '../_proj_head.php' ) ?>
-	<pre><?php echo phpversion() ; ?></pre>
+	<p><?php echo phpversion() ; ?></p>
 <?php require_once( '../_proj_foot.php' ) ?>

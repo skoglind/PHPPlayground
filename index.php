@@ -12,6 +12,7 @@
 		<p>A small playground for all my mini projects.</p>
 		<ul>
 			<li> <a href="version/">PHP Server Version (PHP)</a> </li>
+			<li> <a href="faculty/">Faculty Calculator (PHP)</a> </li>
 		</ul>
 	</body>
 </html>

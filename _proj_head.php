@@ -9,5 +9,4 @@
 	</head>
 	<body>
 		<h2> <a href="/playground">Go back</a> </h2>
-		<div id="data">
 		

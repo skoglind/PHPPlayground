@@ -14,5 +14,8 @@
 			<li> <a href="version/">PHP Server Version (PHP)</a> </li>
 			<li> <a href="faculty/">Faculty Calculator (PHP)</a> </li>
 		</ul>
+		<ul>
+			<li> [<a href="https://github.com/skoglind/PHPPlayground" target="_blank">GIT Repo</a>] </li>
+		</ul>
 	</body>
 </html>

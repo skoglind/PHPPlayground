@@ -5,6 +5,7 @@
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="/playground/standard.css?t=<?php echo time(); ?>" />
 		<meta name="author" content="Fredrik Skoglind">
+		<meta name="robots" content="noindex">
 	</head>
 	<body>
 		<h1> Playground </h1>

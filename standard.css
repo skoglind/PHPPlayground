@@ -1,0 +1,13 @@
+html { padding: 0; margin: 0; color: #000; font-family: Arial, Sans-Serif; background-color: #FFF; 
+	   background: repeating-linear-gradient(45deg, #EEE, #EEE 10px, #DDD 10px, #DDD 20px); }
+body { padding: 0; width: 80%; margin: 50px 10%; background-color: #FFF;
+	   border-radius: 15px; border: solid 1px #CCC; }
+h1 { display: block; font-size: 52px; color: #FFF; background-color: #CCC; padding: 10px 25px; margin: 10px 0; }
+h2 { display: block; font-size: 22px; color: #FFF; background-color: #CCC; padding: 10px 25px; margin: 10px 0; }
+p { display: block; font-size: 16px; padding: 0 25px; margin: 10px 0; }
+ul { display: block; padding: 10px 25px; margin: 10px 0; list-style: none; }
+ul li { display: block; padding: 4px 0; margin: 0; }
+a { font-size: 16px; color: #0000FF; text-decoration: none; }
+a:hover { color: #333; text-decoration: underline; }
+div#data { display: block; font-size: 14px; padding: 0 25px; margin: 10px 0; }
+pre { display: block; padding: 0 5px; margin: 0; }

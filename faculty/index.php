@@ -27,10 +27,10 @@
 
 ?>
 <?php $projtitle = 'Faculty'; ?>
-<?php require_once( '../_proj_head.php' ) ?>
+<?php require_once( '../__res/_proj_head.php' ) ?>
 	<p>Calculate: <?php echo $uservalue; ?>! = <?php echo $calculatedValue ?></p>
 	<div class="data">
 		<input type="button" value="-1" onclick="location.href='?x=<?php echo $uservalue - 1 ?>'" <?php if($uservalue-1 < $minvalue){ echo 'disabled'; } ?> />
 		<input type="button" value="+1" onclick="location.href='?x=<?php echo $uservalue + 1 ?>'" <?php if($uservalue+1 > $maxvalue){ echo 'disabled'; } ?> />
 	</div>
-<?php require_once( '../_proj_foot.php' ) ?>
+<?php require_once( '../__res/_proj_foot.php' ) ?>

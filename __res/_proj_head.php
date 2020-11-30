@@ -3,7 +3,7 @@
 	<head>
 		<title> <?php echo $projtitle ?> - Playground - Skoglind.se </title>
 		<meta charset="utf-8" />
-		<link rel="stylesheet" href="/playground/standard.css?t=<?php echo time(); ?>" />
+		<link rel="stylesheet" href="/playground/__res/standard.css?t=<?php echo time(); ?>" />
 		<meta name="author" content="Fredrik Skoglind">
 		<meta name="robots" content="noindex">
 	</head>
